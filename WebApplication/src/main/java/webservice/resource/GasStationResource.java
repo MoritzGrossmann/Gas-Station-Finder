@@ -1,4 +1,7 @@
+package webservice.resource;
 
+
+import model.gasstation.GasStation;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 

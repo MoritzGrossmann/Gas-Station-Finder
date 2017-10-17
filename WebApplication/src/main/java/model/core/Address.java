@@ -1,3 +1,5 @@
+package model.core;
+
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
@@ -41,7 +43,4 @@ public class Address {
         this.floor = floor;
         this.city = city;
     }
-    
-    
-    
 }

@@ -1,4 +1,7 @@
+package model.gasstation;
 
+
+import model.core.Address;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlRootElement;
